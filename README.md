@@ -9,7 +9,7 @@ You can control the strokes using the mouse.
 
 ![Color Strokes Sketch](/COLORSTROKES.gif)
 ## [Pong](/Pong/Pong.pde)
-Simple reinterpretation of the game Pong.
+Easy reinterpretation of the game Pong with aspects of Space Invader.
 Control the paddle using the mouse.
 Defend the muffins against the burning projectile.
 There is no specific goal, just try to achieve a high score.  
